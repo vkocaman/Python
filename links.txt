@@ -1,0 +1,3 @@
+https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086
+
+https://www.machinelearningplus.com/python/101-pandas-exercises-python/
